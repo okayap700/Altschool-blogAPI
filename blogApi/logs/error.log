@@ -1,0 +1,12 @@
+{"level":"error","message":"Error in authentication middleware: jwt malformed"}
+{"level":"error","message":"Error in authentication middleware: invalid token"}
+{"level":"error","message":"Error in authentication middleware: invalid token"}
+{"level":"error","message":"Error in authentication middleware: invalid token"}
+{"level":"error","message":"Error in authentication middleware: jwt malformed"}
+{"level":"error","message":"Error in authentication middleware: jwt malformed"}
+{"level":"error","message":"Error in login: Operation `users.findOne()` buffering timed out after 10000ms"}
+{"level":"error","message":"Error in authentication middleware: jwt malformed"}
+{"level":"error","message":"Error in authentication middleware: jwt malformed"}
+{"level":"error","message":"Error in authentication middleware: jwt malformed"}
+{"level":"error","message":"Error in authentication middleware: invalid token"}
+{"level":"error","message":"Error in authentication middleware: invalid token"}
